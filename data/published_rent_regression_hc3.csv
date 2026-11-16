@@ -1,0 +1,5 @@
+term,coefficient,robust_std_error,p_value,n_published_rent_communes,r_squared,interpretation
+const,285.1306277678618,692.4588054175699,0.6805113303451898,36,0.22348728445554122,Exploratory only. The published-rent sample is selected and coefficients are not causal.
+median_individual_gross_salary_eur_month,0.16034959373653862,0.05341772116387553,0.0026838384802794417,36,0.22348728445554122,Exploratory only. The published-rent sample is selected and coefficients are not causal.
+population_growth_2020_2025_pct,11.719134457632759,21.173425815125693,0.579932614221256,36,0.22348728445554122,Exploratory only. The published-rent sample is selected and coefficients are not causal.
+one_person_share_pct,13.663652475307998,16.439453412035345,0.40588887017676734,36,0.22348728445554122,Exploratory only. The published-rent sample is selected and coefficients are not causal.

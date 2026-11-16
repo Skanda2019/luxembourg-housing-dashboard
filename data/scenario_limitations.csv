@@ -1,0 +1,4 @@
+scenario,status,reason
+National commune targeting,Not estimated,Comparable housing-cost observations are suppressed for 64 communes. No values are imputed.
+Planning-delay reduction,Not estimated,No validated permit-to-completion timing series was available.
+Housing allowance,Not estimated,Matched household income and rent data were unavailable. Individual gross salary is not a subsidy-needs measure.

@@ -1,0 +1,62 @@
+area,check,passed
+housing_demand,one hundred current communes,Yes
+housing_demand,population join complete,Yes
+housing_demand,household size plausible,Yes
+housing_demand,one person share plausible,Yes
+housing_demand,national households reconcile,Yes
+housing_demand,historical households positive,Yes
+housing_demand,historical dwellings positive,Yes
+housing_demand,decade comparison complete,Yes
+housing_prices_rents,one hundred current rent codes,Yes
+housing_prices_rents,one hundred current sale codes,Yes
+housing_prices_rents,rent codes unique,Yes
+housing_prices_rents,sale codes unique,Yes
+housing_prices_rents,rent suppression rule respected,Yes
+housing_prices_rents,sale suppression rule respected,Yes
+housing_prices_rents,rent history 2009 2025,Yes
+housing_prices_rents,sale history 2007 2025,Yes
+housing_prices_rents,historical rents positive,Yes
+housing_prices_rents,implied size proxy plausible but variable,Yes
+housing_prices_rents,historical prices positive,Yes
+housing_supply,permit values nonnegative,Yes
+housing_supply,six regions in latest year,Yes
+housing_supply,region and canton totals reconcile,Yes
+housing_supply,population join complete,Yes
+housing_supply,permits per 1000 plausible,Yes
+housing_supply,construction index positive,Yes
+housing_supply,stock uses current 100 communes,Yes
+housing_supply,benchmark years present once,Yes
+housing_supply,benchmark values positive,Yes
+income_affordability,one hundred salary codes,Yes
+income_affordability,salary codes unique,Yes
+income_affordability,rent join uses codes,Yes
+income_affordability,salary values positive,Yes
+income_affordability,published proxy values plausible,Yes
+income_affordability,national sale history 2007 2025,Yes
+income_affordability,national rent history 2009 2025,Yes
+income_affordability,annual cpi has twelve months,Yes
+income_affordability,purchasing power base is 100,Yes
+master,one hundred unique text codes,Yes
+master,all commune context complete,Yes
+master,housing cost component present,Yes
+master,cancelling stock component removed,Yes
+master,old structural index removed,Yes
+master,observed index matches rent coverage,Yes
+master,merger communes complete,Yes
+master,regression uses published subset only,Yes
+master,scenario b is published sample top quartile,Yes
+master,scenario b allocation reconciles,Yes
+master,scenario permits are whole dwellings,Yes
+poverty_cost_of_living,poverty rates within zero and 100,Yes
+poverty_cost_of_living,annual cpi complete months,Yes
+poverty_cost_of_living,annual cpi positive,Yes
+poverty_cost_of_living,real income positive,Yes
+poverty_cost_of_living,linked series has at least 15 years,Yes
+poverty_cost_of_living,housing consumption share plausible,Yes
+poverty_cost_of_living,regression has sufficient observations,Yes
+geography_crosswalk,current population codes,Yes
+geography_crosswalk,current salary codes,Yes
+geography_crosswalk,census source codes,Yes
+geography_crosswalk,census canonical codes,Yes
+geography_crosswalk,rent mappings,Yes
+geography_crosswalk,sale mappings,Yes
